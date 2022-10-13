@@ -1,0 +1,418 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+.who{
+    width: 56.2px;
+    height: 48.65px;
+  }
+  /*** will be deleted***/
+ .face p {
+    width: 40px !important;
+}
+.face img {
+    height: 50px !important;
+    width: 50px !important;
+}
+  .bloimg {
+    height: 50px !important;
+    width: 50px !important;
+  }
+.ticket {
+    height: 50px !important;
+    width: 50px !important;
+  }
+.leg {
+    margin-right: 60px !important;
+}
+.zoo h1 {
+    width: 180px !important;
+  }
+.zoo p {
+    width: 315px !important;
+    margin: 0px 0px 20px 0px !important;
+  }
+.zoo{
+      margin-right: 150px !important;
+}
+.zoo h1 {
+    margin: 0 0 15px !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+@media (min-width: 320px) and (max-width: 520px) {
+  
+
+
+
+
+
+.ticket {
+    margin-bottom: 254px !important;
+}
+.ticket {
+    width: 270px !important;
+    height: 500px !important;
+    margin: -70px 0px 0px 12px !important;
+}
+.banner {
+    padding: 0px !important;
+}
+.bancont p {
+    font-size: 34px !important;
+    padding: 10px 30px 0px 0px !important;
+    line-height: 45px !important;
+    color: black !important;
+    font-weight: 600 !important;
+}
+
+
+.ticket5 button {
+    font-size: 2px !important;
+    padding: 0px 0px !important;
+}
+
+.abo h1 {
+
+    font-size: 55px !important;
+}
+.about-middle {
+    padding: 1px !important;
+}
+.abo h2 {
+    font-size: 33px !important;
+    padding: 0px 40px !important;
+}
+.abo p {
+    padding: 0px 10px !important;
+    margin-top: 0px !important;
+}
+.blank h1 {
+    font-size: 60px !important;
+}
+.blank img {
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+    max-width: 100% !important;
+}
+.chec h1 {
+    font-size: 42px !important;
+    padding: 145px 0px !important;
+    color: white !important;
+    line-height: 45px !important;
+}
+.bloc h1 {
+    font-size: 56px !important;
+}
+.petta {
+    padding: 0px 0px 0px 0px !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+}
+.bloimg {
+    width: 300px !important;
+}
+.face img {
+    width: 290px !important;
+}
+.face p {
+    width: 300px !important;
+}
+.khud {
+    font-size: 45px !important;
+}
+.chec button {
+    padding: 12px 25px !important;
+    font-size: 14px !important;
+}
+.ance {
+    padding: 0px 0px 0px 0px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sleep {
+    width: 60px;
+    margin-left: -20px;
+}
+.border{
+    border: none !important;
+}
+.bancont h1 {
+    padding: 145px 0px 0px 0px !important;
+    font-size: 22px !important;
+    color: black !important;
+}
+.bancont span {
+    font-size: 19px !important;
+    font-weight: 500 !important;
+    letter-spacing: 0 !important;
+}
+.make {
+    margin-top: -2px !important;
+}
+
+.ticket {
+    width: 270px !important;
+    height: 460px !important;
+    margin: -70px 0px 10px 12px !important;
+}
+.sa {
+    margin: 0px 0px !important;
+}
+.ticket1 {
+    margin-bottom: 20px !important;
+    margin-right: 15px !important;
+}
+.ticket5 {
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+}
+.ticket5 button {
+    font-size: 13px !important;
+    padding: 12px 17px !important;
+}
+.abo h1 {
+    display: none !important;
+}
+.abo h2 {
+    margin-top: 25px !important;
+}
+.def {
+    display: none !important;
+}
+.fool{
+    margin: 0px 90px !important;
+}
+.so {
+    text-align: center !important;
+}
+.ere {
+    padding: 0px 0px 0px 14px !important;
+    margin-bottom: 35px !important;
+}
+.tera {
+    padding: 0px 22px 0px 12px !important;
+    margin-bottom: 35px !important;
+}
+.teral {
+    padding: 0px 0px 0px 10px !important;
+    margin-bottom: 35px !important;
+    
+}
+.bade {
+    padding: 0px 0px 0px 10px !important;
+    margin-bottom:35px !important;
+}
+.ance {
+    margin-bottom: 35px !important;
+}
+.bala {
+    margin-bottom: 50px !important;
+}
+.level1 img {
+    max-width: 93% !important;
+    margin: 0 12px !important;
+}
+.level1 h1 {
+    font-size: 25px !important;
+    margin-top: 10px !important;
+}
+.level1{
+    margin: 20px 0px !important;
+}
+.level1 p {
+    margin-bottom: 25px !important;
+}
+.blank h1 {
+    display: none !important;
+}
+.activity {
+    padding: 70px 0px !important;
+}
+.blank p {
+    font-size: 21px !important;
+    line-height: 35px !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+}
+.act-left {
+    padding-left: 20px !important;
+}
+.can {
+    margin-top: 5px !important;
+}
+.son {
+    margin-top: 0px !important;
+}
+.check {
+    padding: 30% 0% !important;
+}
+.test {
+    margin-bottom: 40px !important;
+}
+.test p {
+    margin-bottom: 0px !important;
+}
+.bloc h1 {
+    display: none !important;
+}
+.book {
+    padding: 50px 0px !important;
+}
+.bloimg {
+    width: 270px !important;
+    height: 190px !important;
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+    margin-left: 15px !important;
+}
+
+.blo span {
+    margin-left: 13px !important;
+}
+.a {
+    margin-left: 0px !important;
+    padding: 0px 8px 0px 15px !important;
+}
+.blo p {
+    padding: 0px 15px !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    border-bottom: none !important;
+}
+.paw {
+    padding: 0px 0px 0px 13px !important;
+}
+.blo h3 {
+    margin-top: 15px !important;
+    margin-left: 15px !important;
+}
+.blo{
+    margin-top: 35px !important;
+}
+.e {
+    margin-left: 7px !important;
+}
+.bloc2p {
+    display: none !important;
+}
+ .khud {
+    display: none !important;
+}
+.we {
+    padding-bottom: 0px !important;
+}
+.deta1 {
+    padding: 0px 25px 15px 25px !important;
+}
+.facebook {
+    padding: 60px 0px 45px 0px !important;
+}
+.ya {
+    font-size: 35px !important;
+    padding: 0px 7px !important;
+    line-height: 50px !important;
+}
+.face {
+    padding: 0px 15px !important;
+    margin-bottom: 40px !important;
+}
+.instagram {
+    padding: 0px 30px 80px 30px !important;
+}
+.sea1 img {
+    height: 175px;
+    width: 235px !important;
+}
+.sea2 {
+    margin: 0px !important;
+}
+.sea4 {
+    margin-left: 0px !important;
+}
+.sea1 {
+    margin-bottom: 20px !important;
+}
+.stop {
+    margin-top: 15px !important;
+    margin-left: 20px !important;
+}
+footer {
+    padding: 103px 20px 0px 30px !important;
+}
+.leg h1 {
+    margin: 30px 0 30px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

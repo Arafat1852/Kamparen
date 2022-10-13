@@ -1,0 +1,1159 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/** font-family: 'Prompt', sans-serif; **/
+body{
+	font-family: 'Prompt', sans-serif;
+}
+/**** Header Section Code Start Here****/
+.menu1{    
+    font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+    font-size: 14px;
+    line-height: 1.73em;
+    letter-spacing: 1px;
+    margin: 0px 17px;
+}
+.menu a{    
+    font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+    color: #000 !important;
+    font-size: 14px;
+    line-height: 1.73em;
+    letter-spacing: 1px;
+    margin: 0px 17px;
+}
+.menu a:hover{
+	color: #345e41 !important;
+}
+.sign a{
+	font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+    color: #000 !important;
+    font-size: 14px;
+    line-height: 1.73em;
+    letter-spacing: 1px;
+    margin: 0px 7px;
+}
+.sign a:hover{
+	color: #345e41 !important;
+}
+.food{
+	color: #000 !important;
+	font-weight: 500;
+    font-size: 13px;
+    line-height: 26px;
+}
+.dot1{
+	height: 18px;
+    width: 1px;
+    background: #cecece;
+    margin: 10px 0px 0px 5px;
+}
+.dot2{
+	height: 18px;
+    width: 1px;
+    background: #cecece;
+    margin: 10px 5px 0px 5px;
+}
+.fod{
+	color: #000 !important;
+	font-weight: 500;
+    font-size: 14px;
+    line-height: 26px;
+}
+.navbar {
+    --bs-navbar-padding-y: 0;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #345e41;
+}
+.icon{
+	color: black;
+    font-size: 15px;
+    margin: 0px 5px;
+}
+.en{
+    position: relative;
+    display: inline-block;
+}
+.endrop {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 50px;
+    padding: 20px 0px 0px 10px;
+    z-index: 1;
+    cursor: pointer;
+}
+.en:hover .endrop {
+    display: block;
+}
+/***Home Dropdown Code***/
+.home{
+    position: relative;
+    display: inline-block;
+}
+.homedrop {
+	display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 250px;
+    padding: 45px 0px 15px 30px;
+    z-index: 1;
+    cursor: pointer;
+}
+.home:hover .homedrop {
+    display: block;
+}
+.d-cont{
+	font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    margin: 10px 0px;
+    color: #777;
+}
+.d-cont:hover{
+    color: #000;
+}
+.homedrop h5{
+	font-family: 'Prompt', sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	line-height: 22px;
+	color: #000;
+}
+/***Pages Dropdown Code***/ 
+.pages{
+	position: relative;
+    display: inline-block;
+}
+.pages:hover .homedrop{
+	display: block;
+}
+/***Gallery Dropdown Code***/
+.gallery{
+    position: relative;
+    display: inline-block;
+}
+.gallery:hover .homedrop{
+    display: block;
+}
+/*** Blog Dropwodn Code***/
+.blog{
+position: relative;
+    display: inline-block;
+}
+.blog:hover .homedrop{
+display: block;
+}
+/*** Accomodation dropdown Code***/
+.accom{
+    position: relative;
+    display: inline-block;
+}
+.accom:hover .homedrop{
+    display: block;
+}
+.blog{
+    position: relative;
+    display: inline-block;
+}
+.accomdrop {
+	display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 250px;
+    padding: 45px 30px 15px 30px;
+    z-index: 1;
+    cursor: pointer;
+    text-align: right;
+}
+.blog:hover .accomdrop{
+    display: block;
+}
+/**** Header Section Code End Here****/
+.sleep{
+    
+}
+/**** Banner Section Code Start Here****/
+.banner{
+	height: 520px;
+	background-image: url("../img/camp.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px;
+}
+.bancont h1{
+    font-family: 'Prompt', sans-serif !important;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 28px;
+    color:#fff;
+    padding: 30px 0px 10px 0px;
+}
+.bancont p{
+    font-family: 'Prompt', sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 61px;
+    color: #fff;
+    padding: 0px 150px 20px 0px;
+}
+.bancont span{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.73em;
+    letter-spacing: 1px;
+    margin: 0px 0px 0px 10px;
+}
+/**** Banner Section Code End Here****/
+
+/**** About Section Code Start Here****/
+.about{
+   background-color: #f9f9f7;
+}
+.ticket{
+	height: 130px;
+	width: 1100px;
+	background-color: #fff;
+	padding: 35px 43px;
+	margin-top: -65px;
+	box-shadow: 0 0 16px 0 rgb(0 0 0 / 8%);
+}
+.ticket1{
+	width: 170px;
+	display: inline-block;
+}
+.ticket1 i{
+    font-size: 14px;
+    color: #345e41;
+}
+.ticket1 span{
+    margin-bottom: 12px;
+    align-items: center;
+    font-size: 13px;
+    line-height: 1.4em;
+    color: #777;
+    font-weight: 500;
+    letter-spacing: .5px;
+}
+.ticket1 h1{
+    border-bottom: 1px solid rgba(0,0,0,.2);
+    color: #000;
+    line-height: 1.4;
+    padding: 2px 0;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 7px;
+}
+.ticket1 h1:hover{
+	border-color: #000;
+	transition: .3s;
+}
+.ticket5{
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.ticket5 button{
+    font-family: 'Prompt', sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    font-weight: 600;
+    letter-spacing: .7px;
+    padding: 15px 35px;
+    border: 1px solid #345e41;
+    background-color: transparent;
+    transition: color .3s ease-out,background-color .3s ease-out,border-color .3s ease-out;
+}
+.ticket5 button:hover{
+	background-color: #345e41;
+    color: white;
+}
+.sa{
+	margin: 0px 25px;
+}
+.sas{
+	margin: 0px 25px 0px 0px;
+}
+.exit{
+	margin-left: 85px;
+    font-size: 17px !important;
+    color: black !important;
+    cursor: pointer;
+}
+.about-middle{
+	padding: 80px;
+}
+.abo h1{
+    font-family: 'Prompt', sans-serif;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 53px;
+    color: rgb(230 230 230 / 50%);
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+.abo h2{
+    text-align: center;
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 40px;
+    line-height: 1.325em;
+    padding: 0px 170px;
+    margin-top: -21px;
+}
+.abo p{
+    margin: 31px 0 0;
+    line-height: 31px;
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 145px;
+    color: #484848d4;
+    font-weight: 300;
+}
+.bala{
+	margin-top: 55px;
+	margin-bottom: 15px;
+}
+.ance{
+    display: inline-block;
+    padding: 0px 38px 0px 0px;
+}
+.ere{
+    display: inline-block;
+    padding: 0px 38px 0px 38px;
+}
+.tera{
+	display: inline-block;
+    padding: 0px 38px 0px 38px;
+}
+.teral{
+	display: inline-block;
+    padding: 0px 38px 0px 38px;
+}
+.bade{
+	display: inline-block;
+    padding: 0px 0px 0px 38px;
+}
+.ere img{
+	margin: 0px 14px;
+}
+.so{
+	font-family: Prompt,sans-serif;
+	font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: .05em;
+    color: #484848;
+    line-height: 1.73em;
+    margin: 5px 0px 0px 0px;
+}
+.level1 img{
+    max-width: 98%;
+}
+.level1 h1{
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 25px;
+    line-height: 1.52em;
+    text-align: center;
+    margin-top: 28px;
+}
+.level1 p{
+	font-family: Prompt,sans-serif;
+	font-size: 15px;
+    font-weight: 300;
+    line-height: 26px;
+    color: #484848;
+    padding: 0px 5px;
+    text-align: center;
+}
+/**** About Section Code End Here****/
+
+/**** Activity Section Code Start Here****/
+.activity{
+    padding: 100px 0px;
+}
+.blank h1{
+    font-family: 'Prompt', sans-serif;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 53px;
+    color: rgb(230 230 230 / 50%);
+    text-align: right;
+    letter-spacing: 1.5px;
+    margin-bottom: -35px;
+    margin-top: 65px;
+}
+.blank p{
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: right;
+    margin-top: 31px;
+    margin-left: 25px;
+}
+.blank img{
+    margin-top: 50px;
+    margin-left: 110px;
+}
+.act-left{
+    padding-left: 45px;
+}
+.son{
+    margin-top: 55px;
+}
+.act-left h1{
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 27px;
+}
+.can{
+
+    margin-top: 100px;
+}
+
+/**** Activity Section Code End Here****/
+
+/**** Check Section Code Start Here****/
+.check{
+	height: 500px;
+	background-image: url("../img/camp2.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 11% 0%;
+}
+.chec h1{
+	color: #FFFFFF;
+    font-family: Prompt;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 0px;
+    font-weight: 500;
+    text-align: center;
+    padding: 0px 175px;
+}
+.chec button{
+    padding: 15px 75px;
+    font-family: Prompt,sans-serif;
+    font-size: 13px;
+    line-height: 1.46em;
+    letter-spacing: .05em;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: color .3s ease-out,background-color .3s ease-out,border-color .3s ease-out;
+    color: #fff;
+    background-color: #345e41;
+    border: 1px solid transparent;
+    margin-top: 25px;
+}
+.chec button:hover{
+    color: #fff;
+    background-color: #1e4028;
+}
+.chec h2{
+	text-align: center;
+}
+/**** Check Section Code End Here****/
+
+/**** Testimonial Section Code Start Here****/
+.testimonial{
+	padding: 80px 0px;
+}
+.test{
+text-align: center;
+}
+.test span{
+
+}
+.test span i{
+font-size: 14px;
+    margin-right: 4px;
+    width: 15px;
+}
+.test h1{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.72em;
+    color: #000;
+}
+.test p{
+margin-top: 12px;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgba(62,62,62,.9);
+    padding: 0 28px;
+    font-weight: 300;
+}
+/**** Testimonial Section Code End Here****/
+/**** Booking Section Code Start Here****/
+.book{
+	padding: 80px 0px;
+	background-color: #f9f9f7;
+}
+.bloc h1{
+    font-family: 'Prompt', sans-serif;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 53px;
+    color: rgb(230 230 230 / 50%);
+    text-align: right;
+    letter-spacing: 1.5px;
+    margin-bottom: -35px;
+    margin-top: 65px;
+}
+.petta{
+	padding: 0px 0px 0px 200px;
+	font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: right;
+    margin-top: 31px;
+    margin-left: 25px;
+}
+.bloimg{
+    height: 356px;
+    width: 545px;
+    margin-top: 45px;
+    margin-bottom: 25px;
+
+}
+.blo span{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    color: #000;
+    margin-top: 35px;
+}
+.mon{
+	font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    display: inline-block;
+}
+.a{
+	margin-left: 205px;
+    padding: 0px 8px;
+}
+.b{
+	padding: 0px 0px 0px 8px;
+}
+.line{
+	display: inline-block;
+    height: 13px;
+    width: 1px;
+    background: #484848;
+}
+.blo p{
+	font-family: Prompt,sans-serif;
+    margin-top: 8px;
+    font-size: 15px;
+    line-height: 26px;
+    color: rgba(62,62,62,.9);
+    font-weight: 300;
+    border-bottom: 1px solid #cccccb;
+    padding-bottom: 20px;
+}
+.paw{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.blo h3{
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.46em;
+    margin-left: 200px;
+    letter-spacing: .05em;
+}
+.blo h3:hover{
+	color: #345e41;
+}
+.bloc2{
+    padding-left: 20px;
+}
+.e{
+    margin-left: 230px !important;
+}
+.c{
+    margin-left: 165px !important;
+}
+.bloc2p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 31px;
+    color: #484848;
+    text-align: right;
+    margin-top: 100px;
+    padding-left: 35px;
+    margin-bottom: 27px;
+}
+/**** Booking Section Code End Here****/
+/**** Detail Section Code Start Here****/
+.detail{
+    padding: 70px 0px 80px 0px;
+}
+.khud{
+font-family: 'Prompt', sans-serif;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 53px;
+    color: rgb(230 230 230 / 50%);
+    text-align: left;
+    letter-spacing: 1.5px;
+    margin-bottom: -35px;
+    margin-top: 65px;
+}
+.ya{
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 40px;
+    line-height: 53px;
+    text-align: left;
+    margin-top: 25px;
+}
+.deta1 img{
+    margin-top: -35px;
+}
+.deta1 h1{
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-size: 20px;
+    line-height: 1;
+    display: inline-block;
+    margin-top: 30px;
+}
+.deta1 p{
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 26px;
+    color: #484848;
+    margin-top: 10px;
+}
+.we{
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+/**** Detail Section Code Start Here****/
+.check2{
+    height: 580px !important;
+    background-image: url("../img/bg.png") !important;
+    padding: 17% 0% !important;
+}
+.check2h1{
+    text-align: left !important;
+    padding: 0px 350px 0px 0px !important;
+}
+/**** Detail Section Code End Here****/
+
+/**** Facebook Section Code Start Here****/
+.facebook {
+    padding: 100px 0px 45px 0px;
+}
+.box{
+    width: 78px;
+    height: 48px;
+    background: #345e41;
+    padding: 5px 13px;
+    margin-bottom: -50px;
+    z-index: 1111;
+    position: absolute;
+}
+.jin{
+    margin-top: 60px;
+}
+.ji{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 38px;
+    color: #fff;
+}
+.n{
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    color: #fff;
+    padding: 0px 5px;
+}
+.face img{
+   height: 236px;
+   width: 354px;
+}
+.face h1{
+    margin-top: -5px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    color: #000;
+    margin-bottom: 0px;
+}
+.face h2{
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 26px;
+    display: inline-block;
+    padding: 20px 8px 0px 0px;
+    margin-bottom: 0px;
+}
+.lined{
+    display: inline-block;
+    height: 13px;
+    width: 1px;
+    background: #b7b7b7;
+}
+.face h3{
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 26px;
+    display: inline-block;
+    padding: 0px 8px;
+    margin-bottom: 0px;
+}
+.face p{
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 26px;
+    color: #484848;
+    width: 348px;
+}
+.face h4{
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0.13em;
+}
+.face h4:hover{
+    color: #345e41;
+}
+.face i{
+    font-size: 14px;
+}
+/**** Facebook Section Code End Here****/
+/**** Instagram Section Code Start Here****/
+.z{
+    margin-bottom: 12px;
+}
+.instagram {
+    padding: 0px 0px 80px 0px;
+}
+
+.ot{
+    color: #fff;
+    height: 50px;
+    font-size: 23px;
+    width: 50px;
+    background: #333;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+.instagram a{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+}
+.sea1 img{
+    height: 163px;
+    width: 163px;
+}
+.moon{
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 22px !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.3px !important;
+    padding: 70px 75px 60px 70px;
+}
+.sea3 {
+    margin-right: 10px;
+}
+.sea2 {
+    margin: 0px 9px;
+}
+.sea4 {
+    margin-left: 9px;
+}
+.lala{
+        margin-top: 8px;
+}
+.overlay{
+    position: absolute;
+    background: rgba(2,1,15,.5);
+    overflow: hidden;
+    width: 100%;
+    transition: .5s ease;
+}
+.sea1:hover .overlay{
+    bottom: 0;
+  height: 100%;
+}
+.sea1{
+    position: relative;
+    display: inline-block;
+    height: 163px;
+    width: 163px;
+}
+.insta{
+position: absolute;
+    margin-top: 70px;
+    color: white;
+    z-index: -1;
+    font-size: 21px;
+}
+.sea1:hover .insta{
+    z-index: 9999;
+}
+.text i{
+    display: block;
+    font-size: 15px;
+    text-align: end;
+    color: white;
+    margin: 15px;
+}
+.stop{
+padding: 9px 25px;
+    border: none;
+background: #408bd1;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #fff;
+    border-radius: 5px;
+        margin-top: 30px;
+    margin-left: 41%;
+}
+.stop:hover{
+        box-shadow: inset 0 0 10px 20px #359dff;
+}
+.me{
+margin-bottom: -1px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+/**** Instagram Section Code End Here****/
+
+
+.face h1:hover{
+        color: #345e41;
+}
+.face h3:hover{
+    color: #345e41;
+}
+.face h2:hover{
+   color: #345e41; 
+}
+.make{
+    cursor: pointer;
+}
+.eagle{
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    line-height: 1.73em;
+    font-weight: 300;
+    color: #484848;
+}
+
+
+
+
+
+
+footer{
+padding: 103px 0px 0px 0px;
+background-color: #1c231f;
+}
+.zoo h1{
+    margin: 0 0 30px;
+    color: #fff;
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.zoo p {
+    margin: 25px 0px 40px 0px;
+    line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
+.zoo h2{
+    color: #fff;
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.zoo span{
+    color: #bcbcbc;
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 25px;
+}
+.zoo span:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+}
+.leg{
+
+}
+.leg h1{
+    margin: 0 0 30px;
+    color: #fff;
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.leg h2{
+    line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 2px;
+}
+.leg h2 span:hover{
+color: #fff;
+    transition: color .3s ease-out;
+}
+.leg h3{
+    line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 2px;
+}
+.leg h3 span:hover{
+color: #fff;
+    transition: color .3s ease-out;
+}
+.leg h4{
+    line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 2px;
+}
+.leg h4 span:hover{
+color: #fff;
+    transition: color .3s ease-out;
+}
+.leg h5{
+    line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    margin-bottom: 2px;
+    font-weight: 300;
+}
+.leg h5 span:hover{
+color: #fff;
+    transition: color .3s ease-out;
+}
+.leg h6{
+    display: inline-block;
+    font-size: 13px;
+    line-height: 1.46em;
+    font-weight: 600;
+    color: #ffffff;
+    font-family: Prompt,sans-serif;
+    margin-right: 10px;
+        letter-spacing: 0.8px;
+            margin-top: 50px;
+}
+.leg i{
+        color: #ffffff;
+    font-size: 13px;
+    line-height: 1.46em;
+    font-weight: 600;
+}
+
+
+.hand{
+}
+.hand h1{
+margin: 0 0 30px;
+    color: #fff;
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.hand h2{
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+.hand h2:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+    cursor: pointer;
+}
+.hand h3:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+    cursor: pointer;
+}
+.hand h4:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+    cursor: pointer;
+}
+.hand h5:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+    cursor: pointer;
+}
+.hand h6:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+    cursor: pointer;
+}
+.hand h3{
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+.hand h4{
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+.hand h5{
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+.hand h6{
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+
+.nose{
+
+}
+.nose h1{
+margin: 0 0 30px;
+    color: #fff;
+    font-family: Prompt,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.nose p{
+    line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
+.footerdown{
+padding: 12px 0px;
+    border-top: 1px solid #707070;
+    margin-top: 70px;
+}
+.footerdown h1{
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+.footerdown h1:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+}
+.divider{
+    display: inline-block;
+    height: 14px;
+    width: 2px;
+    margin: 0px 5px -2px 5px;
+    margin-bottom: -2px;
+    background: #bcbcbc;
+}
+.footerdown h2{
+    display: inline-block;
+line-height: 1.73em;
+    color: #bcbcbc;
+    font-family: Prompt,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 2px;
+}
+.footerdown h2:hover{
+    color: #fff;
+    transition: color .3s ease-out;
+}
+
+.fool:hover{
+    margin-top: -60px;
+        transition: 0.2s ease-in;
+}
+.def{
+display: inline-block;
+    height: 90px;
+    width: 1px;
+    background-color: #d4d4d2;
+    margin-bottom: -5px;
+}
+.test h1 {
+    cursor: pointer;
+}
+.teeth{
+color: #bcbcbc!important;
+    border: none;
+    border-bottom: 1px solid #e6e6e6!important;
+    font-size: 15px;
+    line-height: 1.7333;
+    font-weight: 300;
+    background-color: transparent;
+    padding-bottom: 4px;
+}
+.nose form{
+    display: inline-block;
+        margin-top: 20px;
+}
